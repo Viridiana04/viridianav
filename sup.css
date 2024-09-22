@@ -1,0 +1,155 @@
+.contenedor{
+background-color:#E6A8A9;
+width:1050px;
+padding:30px;
+margin:auto;
+text-align:center;
+}
+
+header{
+background-color:black;
+position:fixed;
+top:0;
+width:1050px;
+z-index:100px;
+
+}
+nav ul{
+list-style-type:none;
+}
+
+nav ul li{
+display:inline;
+margin-right:50px;
+position:relative;
+}
+
+nav ul li a{
+text-decoration: none;
+color:hotpink;
+font-weight: bold;}
+
+section{
+	
+padding:20px;
+margin:70px;
+}
+.title{
+text-decoration: none;
+color:lightslategrey;
+}
+#img1{
+	float: left;
+	width: 770px;
+    height: 280px;
+	margin-left: auto;
+padding-left: 56px;
+}
+#caf{
+	float: left;
+	width: 400px;
+    height: 280px;
+	margin-right: auto;
+padding-right: 56px;
+}
+
+#img2{
+	width: 350px;
+    height: 360px;
+	margin-left: auto;
+padding-left: 6px;
+	float: right;
+}
+#img4{
+	width: 250px;
+    height: 400px;
+	margin-left: auto;
+padding-left: 6px;
+	float: right;
+}
+#dom{
+	width: 400px;
+    height: 550px;
+	margin-left: auto;
+padding-right: 26px;
+	float: right;
+}
+#img6{
+	width: 700px;
+    height: 350px;
+	margin-left: auto;
+padding-left: 6px;
+	
+}
+.banner {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.button {
+	width: 300px;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 0px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+	border: 3px solid #FFFFFF;
+	color: #FFFFFF;
+	transition: all 0.3s linear;
+}
+.button:hover {
+	background-color: #FEFEFE;
+	color: #C4C4C4;
+	cursor: pointer;
+}
+.copyright {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #717070;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+}
+
+
+footer {
+	display: inline-block;
+}
+.hidden {
+	display: none;
+}
+.menu:hover {
+  background-color:white;
+}
+.menu{ 
+
+  color: white; 
+  padding: 5px ; 
+  text-align: center; 
+  display: inline-block; 
+  font-size: 14px; 
+  margin: 1px 30px;
+  cursor: pointer; 
+  border-radius: 30px; 
+     
+}
+
+footer
+{
+	width: 1050px;
+    height: 100px;
+	background: #DC8687;
+	
+	
+}
